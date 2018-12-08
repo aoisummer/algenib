@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name             Masadora Tools
-// @name:zh          玛沙多拉小工具
-// @namespace        https://github.com/aoisummer/algenib/tree/master/masadora-tools
-// @version          0.3.0
-// @description      Fix some image display *problem* and show CNY on search list page.
-// @description:zh   修复一些图片显示「错误」，在部分搜索页面上显示计算后的 RMB 价格。
-// @author           aoi
-// @match            http://*.masadora.jp/*
-// @grant            none
+// @name               Masadora Tools
+// @name:zh-CN         玛沙多拉小工具
+// @namespace          https://github.com/aoisummer/algenib/tree/master/masadora-tools
+// @version            0.3.0
+// @description        Fix some image display *problem* and show CNY on search list page.
+// @description:zh-CN  修复一些图片显示「错误」，在部分搜索页面上显示计算后的人民币价格。
+// @author             aoi
+// @match              http://*.masadora.jp/*
+// @grant              none
 // @noframes
 // ==/UserScript==
 
